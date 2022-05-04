@@ -1,0 +1,74 @@
+header {
+  font-family: Poppins;
+}
+
+header .logo {
+  height: 400px;
+}
+
+header .nav {
+  width: auto;
+  background-color: #e9cfc2;
+}
+
+header ul {
+  list-style: none;
+  padding: 0px;
+}
+
+header #menu li > a {
+  background-color: #e9cfc2;
+  color: #523e27;
+  font-size: 25px;
+  display: block;
+  text-decoration: none;
+  margin-inline: 100px;
+}
+
+header #menu li > a:hover {
+  background-color: #f5f1ef;
+}
+
+header #menu > li {
+  float: left;
+}
+
+header #menu > li > ul {
+  display: none;
+}
+
+header #menu > li:hover > ul {
+  display: block;
+}
+
+.texto h1 {
+  color: #523e27;
+  font-family: Poppins;
+}
+
+.texto .parrafo {
+  color: #523e27;
+  font-family: Poppins;
+  font-size: 20px;
+}
+
+.footer {
+  background-color: #e9cfc2;
+  color: #523e27;
+  font-family: Poppins;
+}
+
+.redes {
+  width: 45px;
+  border-radius: 5px;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: #523e27;
+}
+
+.nav-item a:hover {
+  color: #f5f1ef;
+}
+/*# sourceMappingURL=style.css.map */

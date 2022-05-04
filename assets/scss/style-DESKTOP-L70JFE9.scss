@@ -1,0 +1,24 @@
+
+$colorprimario :rgb(138, 54, 34);
+$colorfondo : rgb(194, 173, 203);
+$fontprincipal : Poppins
+
+nav{
+    font-family: Poppins;
+    background-color: rgb(230, 219, 225);
+    ul{
+        list-style: none;
+        font-size: 20px;
+        li{
+            a{
+                text-decoration: none;
+                color: $colorprimario;
+            }
+        a:hover{
+                    color: $colorfondo;
+                }
+            
+        }
+    }
+
+}

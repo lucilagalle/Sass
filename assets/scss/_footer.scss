@@ -1,0 +1,19 @@
+.footer{
+    background-color: $colorfondo;
+    color: $colorprimario;
+    font-family: $fuenteprincipal;}
+    .redes{
+        width: 45px;
+        border-radius: 5px;
+    }
+    .nav-item{
+        a{
+            text-decoration: none;
+            color: $colorprimario;
+            
+        }
+        a:hover{
+            color: $colorhover;
+        }
+        
+    }
