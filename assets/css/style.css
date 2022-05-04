@@ -71,4 +71,15 @@ header #menu > li:hover > ul {
 .nav-item a:hover {
   color: #f5f1ef;
 }
+
+.tarjeta .tarjetatexto {
+  font-family: Poppins;
+  width: 500px;
+  height: 100px;
+}
+
+.tarjeta .tarjetafoto {
+  width: 70px;
+  height: 70px;
+}
 /*# sourceMappingURL=style.css.map */
